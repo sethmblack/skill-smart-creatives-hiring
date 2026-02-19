@@ -3,8 +3,9 @@ name: smart-creatives-hiring
 description: Design and evaluate hiring processes that attract and select smart creatives - employees who combine deep technical knowledge, business savvy, and creative energy.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5004
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - smart-creatives-hiring
 - writing
